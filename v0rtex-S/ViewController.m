@@ -20,7 +20,6 @@
 #include <sys/stat.h>
 #include <CommonCrypto/CommonDigest.h>
 #include <mach-o/loader.h>
-#include <sys/dir.h>
 #include <sys/utsname.h>
 
 @interface ViewController ()
